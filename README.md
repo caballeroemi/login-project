@@ -85,7 +85,7 @@ Through this project, I am practising:
 ---
 
 ### Login Page
-![Login Page](./img/photo1.png)
+![Login Page](./src/img/photo1.png)
 
 **Author:** Emiliano Rivas
 
