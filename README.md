@@ -1,6 +1,6 @@
 # Login Project
 
-## Overview
+## Overview.
 
 This project is a simple and modern login application built with React and TypeScript.
 
